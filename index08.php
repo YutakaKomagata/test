@@ -3,13 +3,13 @@
 	$msg .= "<p>よろしくね<br n/p>";
 	$age = 10;
 	$age ="<p>僕は{$age}才なんだよ<br n/p>";
-	$mission = <<<EOFF
+	$mission = <<<EOF
 		<h2>学習内容</h2>
 		<ul>
 			<li>PHP</li>
 			<li>MySQL</li>
 		</ul>
-EOFF;
+EOF;
 ?>
 
 <!DOCTYPE html>
